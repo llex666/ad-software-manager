@@ -43,7 +43,7 @@ Every uninstall has a time limit (`-UninstallTimeoutSec`, 900 s by default); a h
 ## Quick start
 
 ```powershell
-git clone https://github.com/YOUR-USERNAME/ad-software-manager.git
+git clone https://github.com/llex666/ad-software-manager.git
 cd ad-software-manager
 
 powershell -ExecutionPolicy Bypass -File .\Manage-DomainSoftware.ps1
@@ -75,8 +75,8 @@ The menu is displayed in Russian (see the Russian README for a sample). Items: s
 
 ## Related projects
 
-- [AD Scheduled Tasks Manager](https://github.com/YOUR-USERNAME/ad-tasks-manager): scheduled tasks.
-- [AD Startup Manager](https://github.com/YOUR-USERNAME/ad-startup-manager): startup entries.
+- [AD Scheduled Tasks Manager](https://github.com/llex666/ad-tasks-manager): scheduled tasks.
+- [AD Startup Manager](https://github.com/llex666/ad-startup-manager): startup entries.
 
 ## License
 
