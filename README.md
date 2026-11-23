@@ -43,7 +43,7 @@
 ## Быстрый старт
 
 ```powershell
-git clone https://github.com/YOUR-USERNAME/ad-software-manager.git
+git clone https://github.com/llex666/ad-software-manager.git
 cd ad-software-manager
 
 powershell -ExecutionPolicy Bypass -File .\Manage-DomainSoftware.ps1
@@ -99,8 +99,8 @@ powershell -ExecutionPolicy Bypass -File .\Manage-DomainSoftware.ps1
 
 ## Связанные проекты
 
-- [AD Scheduled Tasks Manager](https://github.com/YOUR-USERNAME/ad-tasks-manager) — задания планировщика.
-- [AD Startup Manager](https://github.com/YOUR-USERNAME/ad-startup-manager) — автозагрузка.
+- [AD Scheduled Tasks Manager](https://github.com/llex666/ad-tasks-manager) — задания планировщика.
+- [AD Startup Manager](https://github.com/llex666/ad-startup-manager) — автозагрузка.
 
 ## Лицензия
 
